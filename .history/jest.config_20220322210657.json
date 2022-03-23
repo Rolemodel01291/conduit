@@ -1,0 +1,6 @@
+{
+    "setupFiles": [
+        "<rootDir>src/features/transactionList.test.js"
+    ],
+    "snapshotSerializers": ["enzyme-to-json/serializer"]
+}
